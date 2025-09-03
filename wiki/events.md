@@ -1,6 +1,8 @@
 ### Releases
 Albums<br>
-⦁	VOYD Vol. 2.5 (Parts 1-3) - June 25th, July 2nd & July 9th, 2025<br>
+⦁	VOYD Vol. 2.5 (Part I) - June 25th, 2025<br>
+⦁	VOYD Vol. 2.5 (Part II) - July 2nd, 2025<br>
+⦁	VOYD Vol. 2.5 (Part III) - July 9th, 2025<br>
 ⦁	Harbinger - January 19th, 2024<br>
 ⦁	VOYD Vol. II - March 18th, 2022<br>
 <br>
